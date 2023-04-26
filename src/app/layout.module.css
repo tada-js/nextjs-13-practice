@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px;
+  border-bottom: 2px solid #212a3e;
+}
+
+.nav a {
+  padding: 0px 8px;
+}

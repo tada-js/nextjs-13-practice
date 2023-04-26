@@ -27,7 +27,9 @@ export default function RootLayout({
     <html lang="en" className={sans.className}>
       <body>
         <header className={styles.header}>
-          <h1 className={gothic.className}>멋쟁이 쇼핑몰</h1>
+          <h1 className={gothic.className}>
+            <Link href="/">멋쟁이 쇼핑몰</Link>
+          </h1>
           <nav className={styles.nav}>
             <Link href="/products">Products</Link>
             <Link href="/contact">Contact</Link>

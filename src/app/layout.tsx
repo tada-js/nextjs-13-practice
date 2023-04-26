@@ -14,8 +14,8 @@ const gothic = Nanum_Gothic({
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata = {
-  title: '멋쟁이 프레임워크',
-  description: '멋진 프레임워크를 소개하는 곳입니다.',
+  title: '멋쟁이 쇼핑몰',
+  description: '멋진 쇼핑몰을 소개하는 곳입니다.',
 };
 
 export default function RootLayout({
@@ -27,7 +27,7 @@ export default function RootLayout({
     <html lang="en" className={sans.className}>
       <body>
         <header className={styles.header}>
-          <h1 className={gothic.className}>멋쟁이 프레임워크</h1>
+          <h1 className={gothic.className}>멋쟁이 쇼핑몰</h1>
           <nav className={styles.nav}>
             <Link href="/products">Products</Link>
             <Link href="/contact">Contact</Link>

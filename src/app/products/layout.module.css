@@ -1,0 +1,26 @@
+.nav {
+  color: #f9d949;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 4px;
+  margin-top: 8px;
+}
+
+.nav a {
+  padding: 0px 8px;
+}
+
+.product {
+  padding: 10px;
+  margin-top: 40px;
+}
+
+.ul {
+  list-style-type: none;
+}
+
+.li {
+  border-left: 4px solid #f9d949;
+  margin-top: 4px;
+  padding: 4px;
+}

@@ -18,7 +18,7 @@ pnpm dev
 
 ## 배포 및 개발 환경
 
-- https://nextjs-13-practice.vercel.app/
+- <a href="https://nextjs-13-practice.vercel.app/" target="_blank">https://nextjs-13-practice.vercel.app/</a>
 - 개발 환경
   ```json
   "next": "13.3.1",

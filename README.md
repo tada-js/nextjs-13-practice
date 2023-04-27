@@ -20,11 +20,14 @@ pnpm dev
 
 - <a href="https://nextjs-13-practice.vercel.app/" target="_blank">https://nextjs-13-practice.vercel.app/</a>
 - 개발 환경
+
   ```json
   "next": "13.3.1",
   "react": "18.2.0",
   "react-dom": "18.2.0",
   "typescript": "5.0.4"
+
+  API : https://nextjs-13-practice.vercel.app/api/products
   ```
 
 <br><br>
